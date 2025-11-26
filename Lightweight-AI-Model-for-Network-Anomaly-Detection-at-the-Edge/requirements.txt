@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+matplotlib
+lightgbm
+tensorflow==2.17.1
+tflite-runtime; platform_system != 'Windows'
+pyshark
+scapy
+pytest
